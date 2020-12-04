@@ -1,1 +1,0 @@
-../Board Configuration Files/Melzi_Boards/Firmware/Marlin/Configuration.h
